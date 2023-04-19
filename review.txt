@@ -6,3 +6,4 @@ hero bro şakgadanak
 Before trap vakit geçerdi hep sallanarak
 Geriye dön bak deme l*n bakamam
 main'e commitke
+commit2
