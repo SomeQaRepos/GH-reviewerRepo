@@ -41,7 +41,7 @@ jobs:
         run: sleep 30s
         shell: bash
   release:
-    - name: Sleep for 30 seconds
+    - name: Sleep for 60 seconds
       run: sleep 60s
       shell: bash
       when: manual
