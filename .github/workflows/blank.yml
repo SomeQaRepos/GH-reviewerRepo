@@ -46,5 +46,4 @@ jobs:
     - name: Sleep for 60 seconds
       run: sleep 60s
       shell: bash
-      rules:
-      - when: manual
+    - when: manual
