@@ -7,5 +7,5 @@ pipeline {
                 sleep 30
             }
         }
-    },
+    }
 }
