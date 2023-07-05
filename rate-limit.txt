@@ -1,4 +1,4 @@
-5000 tane kullanıldı ve rate limit yok
+1235000 tane kullanıldı ve rate limit yok
 rate limit2
 limit2
 limit2
@@ -6,3 +6,4 @@ limit2
 limit2
 asdasd
 limit
+123123
