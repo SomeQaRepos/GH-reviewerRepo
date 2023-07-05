@@ -1,2 +1,3 @@
 5000 tane kullanıldı ve rate limit yok
 rate limit2
+limit2
