@@ -14,3 +14,4 @@ BeerAll
 1ol
 be1
 sdaS
+Fail bir reponun aktif commiti olması halinde reanliz olmasının testini yapıyorum.
