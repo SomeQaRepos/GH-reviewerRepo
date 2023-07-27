@@ -16,3 +16,4 @@ be1
 sdaS
 Fail bir reponun aktif commiti olması halinde reanliz olmasının testini yapıyorum.
 Fail bir reponun aktif commiti olması halinde reanliz olmasının testini yapıyorum 2
+Fail bir reponun aktif commiti olması halinde reanliz olmasının testini yapıyorum 3
