@@ -4,7 +4,7 @@ pipeline {
         stage('build') {
             steps {
                 echo 'welcome'
-                sleep 31
+                sleep 15
             }
         }
     }
