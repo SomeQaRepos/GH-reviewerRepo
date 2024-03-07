@@ -28,3 +28,4 @@ negar ile test ediyoruz
 mine ile test ediyoruz
 asd
 sa
+k8 test
